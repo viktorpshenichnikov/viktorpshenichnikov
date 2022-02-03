@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @viktorpshenichnikov
+- My name is Viktor Pshenichnikov. I live in Saint Petersburg, Russia.
+- I’m currently learning Go programming language
+- 📫 Contact me by viktor.pshenichnikov@gmail.com or telegram @Victopruh
